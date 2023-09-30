@@ -1,2 +1,2 @@
 # DSAMentorshipAssignments
-TechNeeds DSA Mentorship Assignment Solutions by Shriya Sandilya
+TechNeeds DSA Mentorship Assignment Solutions by Shriya Sandilya in C++
